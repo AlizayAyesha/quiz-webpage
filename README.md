@@ -19,4 +19,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License:
 This project is licensed under the MIT License.
+## Results:
+![image](https://github.com/AlizayAyesha/quiz-webpage/assets/68489612/51013e72-89cc-4936-a4b8-b0d4f60d52c0)
 
